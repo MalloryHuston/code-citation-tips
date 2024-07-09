@@ -10,12 +10,14 @@ Your citation should include:
 * Type (eg. source code, application, full program, etc)
 * Author name(s) if available
 * Code version if available
+* License (if the code you copied has a "copyleft" license)
 
 Here are two methods for citing code from a snippet used from <b>http://www.oregonstate.edu/mysource</b> retrieved on December 2, 2020:
 
 1. You can cite your code in your written report or your README file. Here is an example on how to cite code in a written document:
     
     <b>Sample Format</b>: <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. Source Web address or publisher information.<br>
+    
     <b>Example</b>: Safonte, D (December 2020) Citing source code (Version 1.0) [Source Code]. <b>http://www.oregonstate.edu/mysource</b></br>
 
 2. The second method cite your source right within your code using comments.
