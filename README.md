@@ -1,4 +1,4 @@
-# Code Citation Tips #
+# Code Citation Tips
 
 When writing code, you want to use similar citation ideas as in academic writing instances. Whether you are copying or adapting code from a small snippet or using an entire module or function, you must cite your source.
 
