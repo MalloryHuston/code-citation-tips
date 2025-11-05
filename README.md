@@ -21,11 +21,11 @@ Here are two methods for citing code from a snippet used from the website <b>htt
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source Web address</b>. (&lt;License {if known/applicable}&gt;).</br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source Web address</b>. Licensed under &lt;license name&gt; (if known).</br>
     
     <b>Example:</b> Safonte, Darreon (December 2, 2020) Citing Source Code (Version 1.0) [Source Code]. <b>http://www.oregonstate.edu/mysource</b>. Licensed under CC BY-NC-SA 4.0.</br>
 
-2. The second method cite your source right within your code using comments.
+3. The second method cite your source right within your code using comments.
 
     <b>Example:</b> a good citation can be observed on lines 1-10 below:
     
@@ -50,7 +50,7 @@ Now, here are two methods for citing code from an application created by its pub
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source publisher information</b>. (&lt;License {if known/applicable}&gt;).</br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source publisher information</b>. Licensed under &lt;license name&gt; (if known).</br>
     
     <b>Example:</b> Ankrah, Jemmy (September 4, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <b>Oregon State University, School of Electrical Engineering and Computer Science</b>. Licensed under MIT.</br>
 
