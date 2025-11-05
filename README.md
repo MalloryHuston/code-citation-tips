@@ -12,27 +12,54 @@ Your citation should include:
 * Code version if available
 * License (if the code you copied has a "copyleft" license)
 
-Here are two methods for citing code from a snippet used from <b>http://www.oregonstate.edu/mysource</b> retrieved on December 2, 2020:
+Here are two methods for citing code from a snippet used from the website <b>http://www.oregonstate.edu/mysource</b> retrieved on December 2, 2020:
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. Source Web address or publisher information.<br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source Web address</b>.<br>
     
-    <b>Example:</b> Safonte, D. (December 2, 2020) Citing Source Code (Version 1.0) [Source Code]. <b>http://www.oregonstate.edu/mysource</b></br>
+    <b>Example:</b> Safonte, Darreon (December 2, 2020) Citing Source Code (Version 1.0) [Source Code]. <b>http://www.oregonstate.edu/mysource</b>. Licensed under CC BY-NC-SA 4.0.</br>
 
 2. The second method cite your source right within your code using comments.
 
-    <b>Example:</b> a good citation can be observed on lines 1-9 below:
+    <b>Example:</b> a good citation can be observed on lines 1-10 below:
     
 ```
 1       # Citation for the following function:
-2		# Author: D. Safonte
+2		# Author: Darreon Safonte
 3		# Title: Citing Source Code
 4		# Version: 1.0
 5		# Type: Source Code
-6       # Date retrieved: December 2, 2020
-7       # Copied from /OR/ Adapted from /OR/ Based on:
-8       # Source URL: http://www.oregonstate.edu/mysource
-9		# Note: Adapted from original to fit our use case (e.g., added error handling)
-10
+6		# License: CC BY-NC-SA 4.0 (if known/applicable)
+7       # Date retrieved: December 2, 2020
+8       # Copied from /OR/ Adapted from /OR/ Based on:
+9       # Source URL: http://www.oregonstate.edu/mysource
+10		# Note: Adapted from original to fit our use case (e.g., added error handling)
+11
+```
+
+Now, here are two methods for citing code from an application used on the publisher <i>Oregon State University, School of Electrical Engineering and Computer Science</i> retrieved on November 5, 2025:
+
+1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
+    
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <i>Source publisher information</i>.<br>
+    
+    <b>Example:</b> Ankrah, Jemmy (November 5, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <i>Oregon State University, School of Electrical Engineering and Computer Science</i>. Licensed under MIT.</br>
+
+2. The second method cite your source right within your code using comments.
+
+    <b>Example:</b> a good citation can be observed on lines 1-10 below:
+    
+```
+1       # Citation for the following function:
+2		# Author: Jemmy Ankrah
+3		# Title: Code Attribution Toolkit
+4		# Version: 2.1
+5		# Type: Application
+6		# License: MIT
+7       # Date retrieved: November 5, 2025
+8       # Copied from /OR/ Adapted from /OR/ Based on:
+9       # Publisher: Oregon State University, School of Electrical Engineering and Computer Science
+10		# Note: Adapted from original application output to integrate with existing system
+11
 ```
