@@ -46,7 +46,7 @@ Here are two methods for citing code from a snippet used from the website, <b>ht
 
 ### Publisher
 
-Now, here are two methods for citing code from an application created by its publisher, <b>Oregon State University, School of Electrical Engineering and Computer Science</b>, retrieved on September 4, 2025:
+Now, here are two methods for citing code from an application created by its publisher — <b>Oregon State University, School of Electrical Engineering and Computer Science</b> — retrieved on September 4, 2025:
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
