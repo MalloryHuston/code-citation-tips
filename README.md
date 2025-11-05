@@ -17,7 +17,7 @@ Your citation should include:
 
 ### Web URL
 
-Here are two methods for citing code from a snippet used from the website, <b>http://www.oregonstate.edu/mysource</b>, retrieved on December 2, 2020:
+Here are two methods for citing code from a snippet used from the website <b>http://www.oregonstate.edu/mysource</b>, retrieved on December 2, 2020:
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
