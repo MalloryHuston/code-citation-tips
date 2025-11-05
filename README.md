@@ -21,7 +21,7 @@ Here are two methods for citing code from a snippet used from the website, <b>ht
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source Web address</b>. Licensed under &lt;license name&gt; (if known).</br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source web address</b>. Licensed under &lt;license name&gt; (if known).</br>
     
     <b>Example:</b> Safonte, Darreon (December 2, 2020) Citing Source Code (Version 1.0) [Source Code]. <b>http://www.oregonstate.edu/mysource</b>. Licensed under CC BY-NC-SA 4.0.</br>
 
