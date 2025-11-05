@@ -26,7 +26,7 @@ Here are two methods for citing code from a snippet used from <b>http://www.oreg
     <b>Example:</b>
     <br>Safonte, Darreon (September 4, 2024). <i>Citing Source Code</i> (Version 2.1) [Source Code]. <i>Oregon State University – School of Electrical Engineering and Computer Science</i>, <b>http://www.oregonstate.edu/mysource</b>. Licensed under MIT.</br>
 
-3. The second method cite your source right within your code using comments.
+2. The second method cite your source right within your code using comments.
 
     <b>Example:</b> a good citation can be observed on lines 1-11 below:
     
