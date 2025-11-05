@@ -16,7 +16,7 @@ Here are two methods for citing code from a snippet used from the website <b>htt
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source Web address</b>.<br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source Web address</b>. (&lt;License {if known/applicable}&gt;).</br>
     
     <b>Example:</b> Safonte, Darreon (December 2, 2020) Citing Source Code (Version 1.0) [Source Code]. <b>http://www.oregonstate.edu/mysource</b>. Licensed under CC BY-NC-SA 4.0.</br>
 
@@ -42,7 +42,7 @@ Now, here are two methods for citing code from an application used on the publis
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <i>Source publisher information</i>.<br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <i>Source publisher information</i>. (&lt;License {if known/applicable}&gt;).</br>
     
     <b>Example:</b> Ankrah, Jemmy (November 5, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <i>Oregon State University, School of Electrical Engineering and Computer Science</i>. Licensed under MIT.</br>
 
