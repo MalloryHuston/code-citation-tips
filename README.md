@@ -16,7 +16,7 @@ Your citation should include:
  
 ## Instructions
 
-Here are two methods for citing code from a snippet used from <b>http://www.oregonstate.edu/mysource</b> retrieved on September 4, 2024:
+Here are two methods for citing code from a snippet used from <b>https://www.oregonstate.edu/mysource</b> retrieved on September 4, 2024:
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
@@ -26,7 +26,7 @@ Here are two methods for citing code from a snippet used from <b>http://www.oreg
     
     <b>Example:</b>
     <br>Safonte, Darreon (September 4, 2024). "Citing Source Code" (Version 2.1) [Source Code].</br>
-    <i>Oregon State University, School of Computer Science</i>. <b>http://www.oregonstate.edu/mysource</b>. Licensed under MIT.</br>
+    <i>Oregon State University, School of Computer Science</i>. <b>https://www.oregonstate.edu/mysource</b>. Licensed under MIT.</br>
 
 2. The second method cite your source right within your code using comments.
 
@@ -42,7 +42,7 @@ Here are two methods for citing code from a snippet used from <b>http://www.oreg
 7       # Date retrieved: September 4, 2024
 8       # Copied from /OR/ Adapted from /OR/ Based on:
 9       # Publisher: Oregon State University, School of Computer Science
-10      # Source URL: http://www.oregonstate.edu/mysource
+10      # Source URL: https://www.oregonstate.edu/mysource
 11		# Note: Adapted from original to fit our use case (e.g., added error handling)
 12
 ```
