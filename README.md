@@ -5,7 +5,7 @@ When writing code, you want to use similar citation ideas as in academic writing
 Your citation should include:
 
 * URL of your source
-* Publisher information (if known)                                                   
+* Publisher information (if provided)                                                   
 * Date you retrieved your source
 * Title of the program or application you are using     
 * Type (e.g., source code, application, full program)
