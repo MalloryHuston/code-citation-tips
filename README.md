@@ -26,7 +26,7 @@ Here are two methods for citing code from a snippet used from <b>https://www.ore
     
     <b>Example:</b>
     <br>`Safonte, Darreon` `(September 4, 2024)`. `"Citing Source Code"` (Version `2.1`), <ins>[`Source code`]</ins>.</br>
-    <i>`Oregon State University – School of Computer Science`</i>, <b>`https://www.oregonstate.edu/mysource`</b>. Licensed under `MIT`.</br>
+    <i>`Oregon State University – School of Computer Science`</i>, <b>https://www.oregonstate.edu/mysource</b>. Licensed under `MIT`.</br>
 
 2. The second method cite your source right within your code using comments.
 
