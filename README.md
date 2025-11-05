@@ -5,7 +5,7 @@ When writing code, you want to use similar citation ideas as in academic writing
 Your citation should include:
 
 * URL of your source
-* Publisher information (if known/applicable)                                                     
+* Publisher information (if known)                                                   
 * Date you retrieved your source
 * Title of the program or application you are using     
 * Type (e.g., source code, application, full program)
@@ -21,7 +21,7 @@ Here are two methods for citing code from a snippet used from <b>http://www.oreg
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
     <b>Sample format:</b>
-    <br><Author name(s)> (&lt;Date retrieved&gt;). <i>Title of application/source code/program</i> (&lt;Version of code&gt;) [&lt;Type of      code&gt;]. <i>Source publisher information</i>, <b>Source web address</b>. Licensed under &lt;license name&gt; (if known).</br>
+    <br><Author name(s)> (&lt;Date retrieved&gt;). <i>Title of application/source code/program</i> (&lt;Version of code&gt;) [&lt;Type of      code&gt;]. <i>Source publisher information</i>, <b>Source web address</b>. Licensed under &lt;license name&gt; (if known/applicable).</br>
     
     <b>Example:</b>
     <br>Safonte, Darreon (September 4, 2024). <i>Citing Source Code</i> (Version 2.1) [Source Code]. <i>Oregon State University – School of Electrical Engineering and Computer Science</i>, <b>http://www.oregonstate.edu/mysource</b>. Licensed under MIT.</br>
