@@ -30,7 +30,7 @@ Here are two methods for citing code from a snippet used from the website <b>htt
 3		# Title: Citing Source Code
 4		# Version: 1.0
 5		# Type: Source Code
-6		# License: CC BY-NC-SA 4.0 (if known/applicable)
+6		# License: CC BY-NC-SA 4.0
 7       # Date retrieved: December 2, 2020
 8       # Copied from /OR/ Adapted from /OR/ Based on:
 9       # Source URL: http://www.oregonstate.edu/mysource
@@ -38,13 +38,13 @@ Here are two methods for citing code from a snippet used from the website <b>htt
 11
 ```
 
-Now, here are two methods for citing code from an application used on the publisher <i>Oregon State University, School of Electrical Engineering and Computer Science</i> retrieved on November 5, 2025:
+Now, here are two methods for citing code from an application created by its publisher <b>Oregon State University, School of Electrical Engineering and Computer Science</b> retrieved on November 5, 2025:
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
-    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <i>Source publisher information</i>. (&lt;License {if known/applicable}&gt;).</br>
+    <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source publisher information</b>. (&lt;License {if known/applicable}&gt;).</br>
     
-    <b>Example:</b> Ankrah, Jemmy (November 5, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <i>Oregon State University, School of Electrical Engineering and Computer Science</i>. Licensed under MIT.</br>
+    <b>Example:</b> Ankrah, Jemmy (November 5, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <b>Oregon State University, School of Electrical Engineering and Computer Science</b>. Licensed under MIT.</br>
 
 2. The second method cite your source right within your code using comments.
 
