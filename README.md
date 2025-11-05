@@ -22,7 +22,7 @@ Here are two methods for citing code from a snippet used from <b>https://www.ore
     
     <b>Sample Format:</b>
     <br>`<Author(s)>` `(<Date retrieved>).` `"<Title of application/source code/program>"` (Version `<X.X>`), <ins>[`Type of code`]</ins>.</br>
-    `'<Publisher>'`, **`<Source URL>`**. Licensed under `<License name>`.</br>
+    `'<Publisher>'`, **`<Source URL>`**. Licensed under `<License name>` (if known).</br>
     
     <b>Example:</b>
     <br>`Safonte, Darreon` `(September 4, 2024)`. `"Citing Source Code"` (Version `2.1`), <ins>[`Source code`]</ins>.</br>
