@@ -11,6 +11,11 @@ Your citation should include:
 * Author name(s) if available
 * Code version if available
 * License (if the code you copied has a "copyleft" license)
+  * A <ins>copyleft license</ins> lets you use and change code freely, but if you share your version, you must keep it open so others can use and change it too
+ 
+## Instructions
+
+### Web URL
 
 Here are two methods for citing code from a snippet used from the website <b>http://www.oregonstate.edu/mysource</b> retrieved on December 2, 2020:
 
@@ -37,6 +42,9 @@ Here are two methods for citing code from a snippet used from the website <b>htt
 10		# Note: Adapted from original to fit our use case (e.g., added error handling)
 11
 ```
+## Instructions
+
+### Publisher
 
 Now, here are two methods for citing code from an application created by its publisher <b>Oregon State University, School of Electrical Engineering and Computer Science</b> retrieved on September 4, 2025:
 
