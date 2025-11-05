@@ -38,13 +38,13 @@ Here are two methods for citing code from a snippet used from the website <b>htt
 11
 ```
 
-Now, here are two methods for citing code from an application created by its publisher <b>Oregon State University, School of Electrical Engineering and Computer Science</b> retrieved on November 5, 2025:
+Now, here are two methods for citing code from an application created by its publisher <b>Oregon State University, School of Electrical Engineering and Computer Science</b> retrieved on September 4, 2025:
 
 1. You can cite your code in your written report or your `README.md` file. Here is an example on how to cite code in a written document:
     
     <b>Sample Format:</b> <author name(s)> (&lt;date retrieved&gt;) <title of application/source code/program> (&lt;Version of code&gt;) [&lt;type of      code&gt;]. <b>Source publisher information</b>. (&lt;License {if known/applicable}&gt;).</br>
     
-    <b>Example:</b> Ankrah, Jemmy (November 5, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <b>Oregon State University, School of Electrical Engineering and Computer Science</b>. Licensed under MIT.</br>
+    <b>Example:</b> Ankrah, Jemmy (September 4, 2025) Code Attribution Toolkit (Version 2.1) [Application]. <b>Oregon State University, School of Electrical Engineering and Computer Science</b>. Licensed under MIT.</br>
 
 2. The second method cite your source right within your code using comments.
 
@@ -57,7 +57,7 @@ Now, here are two methods for citing code from an application created by its pub
 4		# Version: 2.1
 5		# Type: Application
 6		# License: MIT
-7       # Date retrieved: November 5, 2025
+7       # Date retrieved: September 4, 2025
 8       # Copied from /OR/ Adapted from /OR/ Based on:
 9       # Publisher: Oregon State University, School of Electrical Engineering and Computer Science
 10		# Note: Adapted from original application output to integrate with existing system
