@@ -22,11 +22,11 @@ Here are two methods for citing code from a snippet used from <b>https://www.ore
     
     <b>Sample Format:</b>
     <br><Author(s)> (&lt;Date retrieved&gt;). "<Title of application/source code/program>" (Version <X.X>) [&lt;Type of      code&gt;].</br>
-    *\<Publisher\>*. **\<Source URL\>**. Licensed under &lt;license name&gt;.</br>
+    *\<Publisher\>*, **\<Source URL\>**. Licensed under &lt;license name&gt;.</br>
     
     <b>Example:</b>
     <br>Safonte, Darreon (September 4, 2024). "Citing Source Code" (Version 2.1) [Source code].</br>
-    <i>Oregon State University, School of Computer Science</i>. <b>https://www.oregonstate.edu/mysource</b>. Licensed under MIT.</br>
+    <i>Oregon State University – School of Computer Science</i>, <b>https://www.oregonstate.edu/mysource</b>. Licensed under MIT.</br>
 
 2. The second method cite your source right within your code using comments.
 
