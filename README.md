@@ -35,14 +35,14 @@ Here are two methods for citing code from a snippet used from <b>https://www.ore
 ```
 1       # Citation for the following function:
 2		# Author: Darreon Safonte
-3		# Title: Citing Source Code
-4		# Version: 2.1
-5		# Type: Source code
-6		# License: MIT
-7       # Date retrieved: September 4, 2024
-8       # Copied from /OR/ Adapted from /OR/ Based on:
-9       # Publisher: Oregon State University – School of Computer Science
-10      # Source URL: https://www.oregonstate.edu/mysource
+3       # Date retrieved: September 4, 2024
+4		# Title: Citing Source Code
+5		# Version: 2.1
+6		# Type: Source code
+7       # Copied from /OR/ Adapted from /OR/ Based on:
+8       # Publisher: Oregon State University – School of Computer Science
+9       # Source URL: https://www.oregonstate.edu/mysource
+10      # License: MIT
 11		# Note: Adapted from original to fit our use case (e.g., added error handling)
 12
 ```
